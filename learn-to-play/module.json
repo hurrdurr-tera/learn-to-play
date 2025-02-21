@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "learn-to-play",
+    "author": "<font color='#FDD017'>hurrdurr</font>",
+    "description": "==",
+    "version": "<font color='#FC0FC0'>GF v100</font>",
+    "options": {
+        "niceName": "learn-to-play",
+        "guiName": "<font color='#FDD017'>learn-to-play</font>"
+    }
+}
