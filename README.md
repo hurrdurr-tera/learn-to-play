@@ -19,6 +19,6 @@ autochain BD.<br>
 autochain travers cut, ROB, reaping slash, poison blade.<br>
 auto use scyte and A-scyte<br>
 
-Other class will come later.
+Other classes will come later.
 
 
