@@ -1,5 +1,5 @@
 # learn-to-play
-<p>This module is intended to help players pressing skill buttons, no animation cut or attack speed boost like other module.<br>
+<p>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.<br>
 Use l2p command to enable/disable<br></p>
 
 <span><b>Archer:</b></span><br>
