@@ -1,6 +1,6 @@
 # learn-to-play
-<p><h2>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.</h2><br>
-Use l2p command to enable/disable<br>
+<p><h2>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.</h2><br></p>
+<p>Use l2p command to enable/disable<br>
 Set your key binding in the config file<br>
 <span><b>Archer:</b></span><br>
 autochain sequential fire after radiant penetrating and thunderbolt.<br>
