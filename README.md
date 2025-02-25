@@ -4,7 +4,7 @@ Use l2p command to enable/disable<br>
 Set your key binding in the config file<br></p>
 <span><b>Archer:</b></span><br>
 autochain sequential fire after radiant penetrating and thunderbolt.<br>
-autochain WW after rapid fire.<br>
+
 <br>
 <span><b>Lancer:</b></span><br>
 autochain debilitate or spring attack or shield bash (depends on cooldowns) after shield barrage.<br>
