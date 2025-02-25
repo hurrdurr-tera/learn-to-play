@@ -3,6 +3,7 @@
   "ARCHER": "--------------ARCHER KEYS GOES DOWN HERE",
   "SEQFIREKEY": 6,
   "WWKEY": "{f9}",
+  "FWKEY": "e",
   "LANCER": "--------------LANCER KEYS GOES DOWN HERE",
   "SUPERLEAPKEY": "`",
   "WALLOPKEY": 3,
@@ -10,6 +11,17 @@
   "DEBILITATEKEY": "q",
   "ONSLAUGHTKEY": 2,
   "SHIELDBASHKEY": 1,
+  "WARRIOR": "--------------WARRIOR",
+  "BDKEY": 5,
+  "SCYTEKEY": "`",
+  "AREALSCYTEKEY": "{Numpad1}",
+  "POISONKEY": "z",
+  "TRAVERSKEY": "{f4}",
+  "RAINKEY": 1,
+  "WALZKEY": 2,
+  "COMBACTIVEKEY": 3,
+  "REAPINGSLASH": "{f7}",
   "TIPS": "----------------SOME TIPS",
-  "LEARNTOPLAY": "Moron!"
+  "LEARNTOPLAY": "Moron!",
+  "AutoHotKey Sintax": "https://www.autohotkey.com/docs/v1/lib/Send.htm"
 }
