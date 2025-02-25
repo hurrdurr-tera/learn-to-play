@@ -1,5 +1,5 @@
 # learn-to-play
-<p><h2>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.</h2><br></p>
+<p><h2>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.</h2></p>
 <p>Use l2p command to enable/disable<br>
 Set your key binding in the config file<br>
 AutoHotKey required https://www.autohotkey.com/ , use default installation folder.<br>
