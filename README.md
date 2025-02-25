@@ -20,7 +20,5 @@ autochain travers cut, ROB, reaping slash, poison blade.<br>
 auto use scyte and A-scyte<br>
 
 Other class will come later.
-	
-AutoHotKey required https://www.autohotkey.com/ , use default installation folder.
-Put the file SendKey.ahk under the AutoHotKey installation folder.
+
 
