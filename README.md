@@ -1,9 +1,11 @@
 # learn-to-play
-<p>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.<br>
+<p><h2>This module is intended to help players who cant press all the skill buttons, no animation cut or attack speed boost like other module.</h2><br>
 Use l2p command to enable/disable<br>
-Set your key binding in the config file<br></p>
+Set your key binding in the config file<br>
 <span><b>Archer:</b></span><br>
 autochain sequential fire after radiant penetrating and thunderbolt.<br>
+AutoHotKey required https://www.autohotkey.com/ , use default installation folder.<br>
+Put the file SendKey.ahk under the AutoHotKey installation folder.</p>
 
 <br>
 <span><b>Lancer:</b></span><br>
